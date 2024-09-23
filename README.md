@@ -1,6 +1,6 @@
 # DownWebFileDL
 
-DownWebFileDL - Descargador de archivos de página web
+Descargador de archivos de página web
 DownWebFileDL es una herramienta de línea de comandos que te permite descargar archivos de una página web de forma automatizada (aprovechandose de un Directory listing ). 
 
 ## Características:
